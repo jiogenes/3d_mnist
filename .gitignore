@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pth
+test_imgs/
+weights/
+*.csv
+data/
+jupyter/weights/
